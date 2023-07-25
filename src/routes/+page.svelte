@@ -1,7 +1,7 @@
-<div class="text-3xl font-bold underline">
-    Testing!
-</div>
+<script lang="ts">
+	import TextArea from "../components/TextArea.svelte";
 
-<div class="text-amber-600 hover:text-black">
-    Another test!
-</div>
+
+</script>
+
+<TextArea value="Hello World!"/>
