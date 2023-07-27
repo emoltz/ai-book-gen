@@ -37,6 +37,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"esbuild": "^0.18.17",
 		"firebase": "^10.1.0"
 	}
 }
