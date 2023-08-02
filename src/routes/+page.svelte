@@ -10,6 +10,8 @@
 		your novel with other people and rank which ones should be made into a full text.
 	</div>
 	<div class="mt-5">
+        <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight mb-5 focus:outline-none focus:shadow-outline" id="username" type="text" placeholder="Prompt">
+
 		<button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
 			Generate Novel
 		</button>
